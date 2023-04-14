@@ -884,7 +884,7 @@ gap: 24px;
   letter-spacing: 0.04em;
   outline: transparent;
   padding: 8px 16px;
-  color: var(--primary-text-color));
+  color: var(--primary-text-color);
   resize: none;
 }
 

@@ -622,7 +622,7 @@ gap: 24px;
 .footer-aside {
     width: 208px;
     height: 80px;
-margin-left: 120px;
+    margin-left: 120px;
 } 
 
 .footer-title {
@@ -675,7 +675,6 @@ margin-left: 120px;
 		justify-content: center;
 }
 
-.form-subscribe {}
 
 .form-title {
 		font-family: 'Roboto';
@@ -737,10 +736,6 @@ margin-left: 120px;
 		gap: 16px;
 				
 }
-
-.footer-icon {
-}
-  
 
 .footer-input::placeholder {
     color: var(--white-background);

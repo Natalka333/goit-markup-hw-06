@@ -620,8 +620,6 @@ gap: 24px;
 }
 
 .footer-aside {
-    width: 208px;
-    height: 80px;
     margin-left: 120px;
 } 
 
@@ -667,8 +665,6 @@ gap: 24px;
 /* FOOTER FORM */
 
 .container-form {
-		width: 453px;
-		height: 80px;
 		margin-left: 80px;
 }
 

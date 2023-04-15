@@ -669,19 +669,15 @@ gap: 24px;
 .container-form {
 		width: 453px;
 		height: 80px;
-		margin-left: auto;
-		display: flex;
-		align-items: center;
-		justify-content: center;
+		margin-left: 80px;
 }
-
 
 .form-title {
 		font-family: 'Roboto';
 		font-style: normal;
 		font-weight: 500;
 		font-size: 16px;
-		line-height: 1.15;
+		line-height: 1.5;
 		letter-spacing: 0.02em;
 		color: var(--white-background);
 		margin-bottom: 16px;
@@ -820,7 +816,6 @@ gap: 24px;
   margin-bottom: 16px;
 }
 .modal-field {
-	margin-top: 16px;
   margin-bottom: 8px;
 }
 .input-wrap {
@@ -871,6 +866,10 @@ gap: 24px;
   color: var(--subtle-text);
 }
 
+.modal-textarea {
+	margin-bottom: 16px;
+}
+
 .user-textarea {
   width: 100%;
   height: 120px;
@@ -896,6 +895,10 @@ gap: 24px;
   line-height: 1.17;
   letter-spacing: 0.01em;
   color: var(--dark);
+}
+
+.modal-check {
+	margin-bottom: 24px;
 }
 
 .check-text {
